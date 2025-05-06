@@ -1,0 +1,2 @@
+This is new feature for our feature-1 branch.
+By this we can manage staff.
