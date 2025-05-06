@@ -1,1 +1,2 @@
 I am a second  new text file.
+This is new change durring feature-1 creation.

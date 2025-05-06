@@ -1,0 +1,3 @@
+This is new feature for our feature-1 branch.
+By this we can manage staff.
+Adding some new features as per our reviewer requirements
